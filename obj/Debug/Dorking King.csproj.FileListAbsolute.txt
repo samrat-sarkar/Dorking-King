@@ -1,0 +1,10 @@
+C:\Users\Windows\source\repos\Dorking King\bin\Debug\Dorking King.exe.config
+C:\Users\Windows\source\repos\Dorking King\bin\Debug\Dorking King.exe
+C:\Users\Windows\source\repos\Dorking King\bin\Debug\Dorking King.pdb
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking King.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking_King.Form1.resources
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking_King.Properties.Resources.resources
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking King.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking King.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking King.exe
+C:\Users\Windows\source\repos\Dorking King\obj\Debug\Dorking King.pdb
